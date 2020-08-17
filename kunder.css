@@ -1,0 +1,24 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+
+
+	.con{
+	height: 100%;
+	width: 100%;
+	background-image: linear-gradient(orange,grey,lightblue);
+    background-position: center;
+    background-size: cover;
+    position:absolute;
+    } 
+    .cat{
+	width:60%;
+	top: 50%;
+	left: 50%;
+	transform:translate(-50%,-50%);
+	position: absolute;
+	text-align: center;
+	color: white;
+}
